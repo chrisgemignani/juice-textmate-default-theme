@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5682"
+   name=""
+   committed-date="2006-10-29T05:11:51.344318Z"
+   url="http://macromates.com/svn/Bundles/trunk/Support/themes/default/images"
+   last-author="Soryu"
+   kind="dir"
+   uuid="dfb7d73b-c2ec-0310-8fea-fb051d288c6d"
+   repos="http://macromates.com/svn/Bundles"
+   revision="10238"/>
+<entry
+   committed-rev="5682"
+   name="teaser.png"
+   text-time="2007-09-19T23:01:57.000000Z"
+   committed-date="2006-10-29T05:11:51.344318Z"
+   checksum="611dfe5ff3d8b69d0009e30fe3b16c93"
+   last-author="Soryu"
+   kind="file"
+   prop-time="2007-09-19T23:01:57.000000Z"/>
+<entry
+   committed-rev="5682"
+   name="header.png"
+   text-time="2007-09-19T23:01:57.000000Z"
+   committed-date="2006-10-29T05:11:51.344318Z"
+   checksum="e48416d21b6d3b47a5c5a6f43b121867"
+   last-author="Soryu"
+   kind="file"
+   prop-time="2007-09-19T23:01:57.000000Z"/>
+</wc-entries>
